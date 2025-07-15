@@ -1,0 +1,7 @@
+h -v
+origin  https://github.com/Tushardandavate/mynewexperimental.git (fetch)
+origin  https://github.com/Tushardandavate/mynewexperimental.git (push)
+
+tusha@Tushar_2004 MINGW64 ~/OneDrive/ドキュメント/mynewexperimental (main)
+$ git push -u origin main
+Enumerating objects: 3, do
